@@ -163,12 +163,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - GroundingDINO, FastSAM, and SAM teams for open-source models
 - Plant phenotyping research community
 
-## 📞 Contact
-
-For questions or collaboration:
-- Mohammad Salman - [email]
-- Muhammad Faisal Nazir - [email]
-
----
 
 **⭐ Star this repository if you find it helpful!**
