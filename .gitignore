@@ -1,0 +1,90 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environments
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+plant_env/
+myenv/
+
+# PyTorch
+*.pth
+*.pt
+*.ckpt
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Model repositories (too large for GitHub)
+# Exclude large model repositories
+FastSAM/
+Plant-Disease-and-Nutrient-Deficiency-Detection-in-Plant-Leave/
+GroundingDINO/
+# Model weights and checkpoints
+*.pth
+*.pt
+*.ckpt
+*.safetensors
+weights/
+checkpoints/
+models/*.pth
+models/*.pt
+
+# Large datasets and outputs
+outputs/
+results/
+*.zip
+*.tar.gz
+*.rar
+
+# Temporary files
+temp/
+tmp/
+*.tmp
+*.log
+
+# Plant Disease/Nutrition project (if separate)
+Plant-Disease*/
+plant-disease*/
+Plant-Nutrition*/
+plant-nutrition*/
